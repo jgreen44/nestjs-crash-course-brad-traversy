@@ -56,4 +56,5 @@ $ npm i -g @nestjs/cli
 $ nest --version
 $ nest new nest-rest-api
 $ nest g controller items
+$ nest g service items
 ```
